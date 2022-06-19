@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591394166469",
+    "project_id": "nft-market-app-by-gading",
+    "storage_bucket": "nft-market-app-by-gading.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591394166469:android:cdaf4f4cfb65ea97b282ac",
+        "android_client_info": {
+          "package_name": "com.fazrigading.nft_marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591394166469-jnr2aouu0mm5f98e30lier2fgc26ciek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-vCNVdakT-XcpimTnOiQVlsNT-KdunxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591394166469-jnr2aouu0mm5f98e30lier2fgc26ciek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
